@@ -1,0 +1,13 @@
+title: Grid Team Legal
+description: Privacy Policy & Terms of Use for the Grid Team mobile app
+theme: null
+plugins: []
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
