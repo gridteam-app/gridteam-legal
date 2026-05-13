@@ -7,7 +7,7 @@ permalink: /privacy/
 # Privacy Policy — Grid Team
 
 **Last updated: 2026-05-12**
-**Effective date: [TO BE SET BEFORE RELEASE]**
+**Effective date: 2026-05-13**
 
 This Privacy Policy describes how **Grid Team** ("we", "us", "the App") collects, uses, and protects your personal data when you use our mobile application.
 
@@ -17,9 +17,9 @@ Grid Team is an independent, unofficial app for F1 and MotoGP fans. It is not af
 
 ## 1. Data Controller
 
-**[YOUR LEGAL ENTITY / NAME]**
+**Grid Team**
 Email: contact@gridteam.app
-[Postal address — required by GDPR if applicable]
+
 
 For any GDPR-related request (access, rectification, erasure, portability, objection), contact: **contact@gridteam.app**.
 

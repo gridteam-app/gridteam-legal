@@ -7,7 +7,7 @@ permalink: /terms/
 # Terms of Use — Grid Team
 
 **Last updated: 2026-05-12**
-**Effective date: [TO BE SET BEFORE RELEASE]**
+**Effective date: 2026-05-13**
 
 By downloading, accessing, or using the **Grid Team** mobile app ("the App"), you agree to these Terms of Use ("Terms"). If you do not agree, do not use the App.
 
@@ -103,7 +103,7 @@ We may update these Terms. Material changes will be announced in-app. Continued 
 
 ## 12. Governing Law
 
-These Terms are governed by the law of **[YOUR COUNTRY / JURISDICTION]**. Any dispute will be submitted to the competent courts of **[CITY]**, except where mandatory consumer protection law provides otherwise.
+These Terms are governed by the law of **France**. Any dispute will be submitted to the competent courts of **Paris**, except where mandatory consumer protection law provides otherwise.
 
 EU consumers may also use the European Online Dispute Resolution platform: https://ec.europa.eu/consumers/odr
 
